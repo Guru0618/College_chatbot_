@@ -1,7 +1,10 @@
 people contribute to the project
-`1.Likith D 1DA21IS026
+1.Likith D 1DA21IS026
+
 2. Abhishek H 1DA21IS002
+
 3.Guruprasad E 1DA21IS018
+
 4. Hamsalekha 1DA21IS019
 
 Project dependencies
